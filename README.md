@@ -122,3 +122,18 @@ http://localhost:5000
 | Backend   | Python Flask            |
 | ML Model  | Scikit-learn (Random Forest) |
 | AI Report | Claude API (claude-sonnet-4) |
+
+
+
+results:- 
+<img width="544" height="458" alt="image" src="https://github.com/user-attachments/assets/55a28f00-4f87-49bb-b58c-0d40d8752ca2" />
+
+<img width="542" height="803" alt="image" src="https://github.com/user-attachments/assets/e26d58e8-7fca-4662-a9b6-f4cac88e2d4e" />
+
+
+<img width="549" height="464" alt="image" src="https://github.com/user-attachments/assets/966c4141-1c1d-4ac1-a0ce-0311a294eee1" />
+
+<img width="536" height="799" alt="image" src="https://github.com/user-attachments/assets/81e1fa4a-d4b8-4fc8-a231-2d0af15df156" />
+
+
+
